@@ -46,3 +46,8 @@ The model successfully predicts student performance with good accuracy and can b
 ---
 
 👩‍💻 Developed as part of internship/project work
+---
+
+
+## ✍️ Author  
+**Kavya Nissanki**
